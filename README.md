@@ -28,12 +28,21 @@ In my free time, I read books, listen and collect vinyl records, ride a bike, an
 TECH SKILLS:
 
 Languages → JavaScript, Typescript, Ruby, HTML, CSS, Swift
+
 Front End → React, Gatsby, Bootstrap, Material UI, Semantic UI, Sass
-Back End → Rails, Node.js, Express 
+
+Back End → Rails, Node.js, Express
+
 Mobile → React Native
+
 QA Test → Selenium, Jira, TestRail, DevTools, Postman
+
 Database → SQLite, PostgreSQL, GraphQL
+
 Deployment → Github Pages, Netlify, Heroku
+
 Photography and Design → Photoshop, Illustrator, Lightroom, Capture One
+
 Prototyping → Balsamiq, Sketch
+
 Instructional Design → Adobe Connect, Camtasia, Canva, Articulate Storyline, iSpring Suite
