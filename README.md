@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?kastergarta=your-github-username)
+![](https://komarev.com/ghpvc/?username=kastergarta)
 
 Full-Stack Software Engineer with strong experience in JavaScript, React, knowledge of core CS concepts, and a background in EdTech. Extensive expertise in Frontend testing and different testing methodologies.
 
