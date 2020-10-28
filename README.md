@@ -14,7 +14,7 @@ In my free time, I read books, listen and collect vinyl records, ride a bike, an
 
 TECH SKILLS:
 
-Languages → JavaScript, Typescript, Ruby, HTML, CSS, Swift
+Languages → JavaScript, Typescript, Java, Ruby, HTML, CSS
 
 Front End → React, Gatsby, Bootstrap, Material UI, Semantic UI, Sass
 
